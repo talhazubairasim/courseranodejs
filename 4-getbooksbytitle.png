@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Error</title>
+</head>
+<body>
+<pre>ReferenceError: book is not defined<br> &nbsp; &nbsp;at /home/project/expressBookReviews/final_project/router/general.js:62:7<br> &nbsp; &nbsp;at Array.reduce (&lt;anonymous&gt;)<br> &nbsp; &nbsp;at /home/project/expressBookReviews/final_project/router/general.js:61:39<br> &nbsp; &nbsp;at Layer.handle [as handle_request] (/home/project/expressBookReviews/final_project/node_modules/express/lib/router/layer.js:95:5)<br> &nbsp; &nbsp;at next (/home/project/expressBookReviews/final_project/node_modules/express/lib/router/route.js:144:13)<br> &nbsp; &nbsp;at Route.dispatch (/home/project/expressBookReviews/final_project/node_modules/express/lib/router/route.js:114:3)<br> &nbsp; &nbsp;at Layer.handle [as handle_request] (/home/project/expressBookReviews/final_project/node_modules/express/lib/router/layer.js:95:5)<br> &nbsp; &nbsp;at /home/project/expressBookReviews/final_project/node_modules/express/lib/router/index.js:284:15<br> &nbsp; &nbsp;at param (/home/project/expressBookReviews/final_project/node_modules/express/lib/router/index.js:365:14)<br> &nbsp; &nbsp;at param (/home/project/expressBookReviews/final_project/node_modules/express/lib/router/index.js:376:14)</pre>
+</body>
+</html>
